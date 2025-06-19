@@ -11,13 +11,13 @@ const Contact = () => {
             <h4>Email</h4>
             <p>
               <a href="mailto:example@mail.com" data-cursor="disable">
-                example@mail.com
+                velivelakarthikeya@gmail.com
               </a>
             </p>
             <h4>Phone</h4>
             <p>
-              <a href="tel:+919920782622" data-cursor="disable">
-                +91 99999 99999
+              <a href="tel:+917416191169" data-cursor="disable">
+                +91 7416191169
               </a>
             </p>
           </div>
